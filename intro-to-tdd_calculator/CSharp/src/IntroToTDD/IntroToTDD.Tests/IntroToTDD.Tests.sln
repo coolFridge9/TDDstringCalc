@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToTDD.Tests", "IntroToTDD.Tests.csproj", "{71E8E2A7-EF4E-4028-AF40-EC7F7FD6FC4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToTDD", "..\IntroToTDD\IntroToTDD.csproj", "{3182A080-D315-46FF-AD48-C05F2B825139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71E8E2A7-EF4E-4028-AF40-EC7F7FD6FC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E8E2A7-EF4E-4028-AF40-EC7F7FD6FC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E8E2A7-EF4E-4028-AF40-EC7F7FD6FC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E8E2A7-EF4E-4028-AF40-EC7F7FD6FC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3182A080-D315-46FF-AD48-C05F2B825139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3182A080-D315-46FF-AD48-C05F2B825139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3182A080-D315-46FF-AD48-C05F2B825139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3182A080-D315-46FF-AD48-C05F2B825139}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

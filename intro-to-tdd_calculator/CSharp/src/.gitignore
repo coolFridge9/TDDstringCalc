@@ -1,0 +1,10 @@
+# .net build artifacts
+bin/
+obj/
+
+# Visual Studio for Mac files
+*.userprefs
+
+# Visual Studio files
+.vs/
+
